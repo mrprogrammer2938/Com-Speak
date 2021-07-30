@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # This Code Write by Mr.nope
-# Com-Speak v1.0
+# Com-Speak v1.2.0
 import os
 import time
 import sys
