@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # This Code Write by Mr.nope
-# Com-Speak
+# Com-Speak v1.2.0
 if [[ "$(id -u)" -ne 0 ]];
 then
     echo "Please, Run This Programm as Root!"
